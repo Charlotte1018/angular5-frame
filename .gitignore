@@ -43,6 +43,7 @@ Thumbs.db
 
 # Dist #
 /dist
+/build
 /views
 /public/__build__/
 /src/*/__build__/
